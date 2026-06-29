@@ -100,6 +100,3 @@ https://github.com/Anuragkhobragade/Tech-Titans
 ---
 
 ⭐ **Built with ❤️ by Team Titans for TechBhasha HackFest 2.0**
-
-
-⭐ If you like this project, don't forget to give it a Star!
