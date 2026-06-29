@@ -51,17 +51,14 @@ Managing medical records across different hospitals is difficult. Patients often
 
 ## 🏗️ System Workflow
 
-Patient / Doctor / Admin
-⬇️
-Email OTP Authentication
-⬇️
-Sanjeevani Medical Portal
-⬇️
-Doctor Portal • Appointment Booking • Medical Reports
-⬇️
-Firebase Firestore Database
-⬇️
-Download & Share Reports
+- User (Patient / Doctor / Admin) logs in using Email OTP Authentication.
+- User accesses the Sanjeevani Medical Portal.
+- The portal provides:
+- 👨‍⚕️ Doctor Portal
+- 📅 Appointment Booking
+- 📂 Medical Report Management
+- All data is securely stored in Firebase Firestore.
+- Users can Download & Share Medical Reports anytime.
 
 ## 🚀 Future Scope
 
